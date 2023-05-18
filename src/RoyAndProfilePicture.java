@@ -14,6 +14,7 @@ public class RoyAndProfilePicture {
                 System.out.println("UPLOAD ANOTHER");
 
             else
+
             if((w>=L&&h>=L)&&(w==h))
                 System.out.println("ACCEPTED");
 
